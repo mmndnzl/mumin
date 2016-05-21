@@ -1,0 +1,21 @@
+.ust-anim{
+    
+ -webkit-transition: all 0.9s ease-in-out;
+ -moz-transition: all 0.9s ease-in-out;
+  transition: all 0.9s ease-in-out;
+  top:0px;
+  
+ }
+.ust-anim.load{
+    margin-top:-10%;
+}
+.alt-anim{
+    -webkit-transition: all 0.9s ease-in-out;
+    -moz-transition: all 0.9s ease-in-out;
+    transition: all 0.9s ease-in-out;
+    top:0px;
+    
+}
+.alt-anim.load{
+    margin-top:27%;
+    }
